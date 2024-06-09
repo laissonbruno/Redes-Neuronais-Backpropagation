@@ -1,4 +1,4 @@
-# - Redes Neuronais + Backpropagation
+# TP1 - Redes Neuronais + Backpropagation
 
 ## Informações do Projeto
 
